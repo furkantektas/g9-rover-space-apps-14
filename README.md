@@ -13,6 +13,7 @@ Hardware and Necessaries
 * [Dagu Rover Chasis 5](http://www.pololu.com/product/1550)
 * [Rover 5 Motor Driver Board](https://www.sparkfun.com/products/11593)
 * Raspberry PI Model B
+* WiFi Dongle
 * Battery
 * Wires and Jumpers
 * Screws
