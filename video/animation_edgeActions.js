@@ -7,7 +7,7 @@ Symbol.bindElementAction(compId,symbolName,"${_instructionsMainGroup}","mouseove
 //Edge binding end
 Symbol.bindElementAction(compId,symbolName,"${_instructionsMainGroup}","mouseout",function(sym,e){sym.play();});
 //Edge binding end
-Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",32038,function(sym,e){sym.stop();});
+Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",32838,function(sym,e){sym.stop();});
 //Edge binding end
 Symbol.bindElementAction(compId,symbolName,"${_replay}","click",function(sym,e){sym.play(0);});
 //Edge binding end
