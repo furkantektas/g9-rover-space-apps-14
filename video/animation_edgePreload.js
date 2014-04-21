@@ -13,4 +13,4 @@ loadResources(aLoader,doDelayLoad);preContent={dom:[]};
 //simpleContent
 dlContent={dom:[]};
 //simpleContent
-})("EDGE-3181623");
+})("introduction");

@@ -13,4 +13,4 @@ Symbol.bindElementAction(compId,symbolName,"${_replay}","click",function(sym,e){
 //Edge binding end
 })("stage");
 //Edge symbol end:'stage'
-})(jQuery,AdobeEdge,"EDGE-3181623");
+})(jQuery,AdobeEdge,"introduction");
